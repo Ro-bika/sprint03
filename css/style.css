@@ -33,7 +33,7 @@ h3 {
     color: coral;
 }
 
-p {
+.content {
     color: grey;
     font-size: 24px;
     font-family: 'Kodchasan', sans-serif;
