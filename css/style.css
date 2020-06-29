@@ -9,15 +9,19 @@
     font-weight: 200;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan&family=Roboto&display=swap');
+
 h1 {
-    color: red;
-    font-family: "Oswald";
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
 }
 
 p {
     color: grey;
     font-size: 24px;
-    font-family: "Oswald-light";
+    font-family: 'Kodchasan', sans-serif;
+    text-align: left;
 }
 img {
     width: 200px;
