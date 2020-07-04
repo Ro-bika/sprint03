@@ -2,5 +2,12 @@
     display: inline-block;
     width: 100px;
     height: 100px;
-    background-color: rgba(0, 0, 255, .158);
+    background-color: rgba(0, 0, 255, .158);  
 }
+
+/*
+rgb(255, 255, 255) = #FFFFFF fehér
+rgb(66, 134, 244) = #4286f4
+rgb(244, 92, 66) = #f45c42
+rgb(0, 0, 0) = #000000 fekete
+*/
