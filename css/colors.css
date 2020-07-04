@@ -5,6 +5,10 @@
     background-color: rgba(0, 0, 255, .158);  
 }
 
+html {
+    background: url("../img/pxfuel.com_500.jpg") no-repeat;
+}
+
 /*
 rgb(255, 255, 255) = #FFFFFF fehér
 rgb(66, 134, 244) = #4286f4
