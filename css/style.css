@@ -59,3 +59,7 @@ img {
     box-shadow: 3px 3px 7px black;
     margin: 1%;
 }
+
+#img-1 {
+    display: none;
+}
